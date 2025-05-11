@@ -8,9 +8,9 @@ Demonstration of my first model. Results of training show that it's overfitting 
 
 For tracking in the video, I use pure model output without any additional techniques that I plan to introduce later.
 
-Click on the [link to video](https://youtu.be/BvAa8w46dtk).
+Click on the [link to video](https://www.youtube.com/watch?v=BvAa8w46dtk).
 
-<iframe style="width:100%;height:auto;" width="640" height="480" src="https://youtu.be/BvAa8w46dtk" 
+<iframe style="width:100%;height:auto;" width="640" height="480" src="https://www.youtube.com/watch?v=BvAa8w46dtk" 
 frameborder="0" allowfullscreen></iframe>
 
 ---
