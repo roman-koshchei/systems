@@ -10,8 +10,7 @@ For tracking in the video, I use pure model output without any additional techni
 
 Click on the [link to video](https://www.youtube.com/watch?v=BvAa8w46dtk).
 
-<iframe style="width:100%;height:auto;" width="640" height="480" src="https://www.youtube.com/watch?v=BvAa8w46dtk" 
-frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BvAa8w46dtk?si=hzgGpZQ70anCTmFZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
